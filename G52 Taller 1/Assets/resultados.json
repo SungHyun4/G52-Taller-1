@@ -1,14 +1,15 @@
 {
     "items": [
         {
-            "id": 13,
-            "nombre": "Cargador",
-            "tipo": "Fragil",
-            "peso": 187.0,
-            "precio": 20592.0,
-            "tiempo": 2.0
+            "id": 14,
+            "nombre": "Impresora",
+            "tipo": "Pesado",
+            "peso": 89.0,
+            "precio": 19228.0,
+            "tiempo": 3.0
         },
         {
+<<<<<<< Updated upstream
             "id": 3,
             "nombre": "Silla",
             "tipo": "Pesado",
@@ -23,6 +24,14 @@
             "peso": 119.0,
             "precio": 5012.0,
             "tiempo": 2.0
+=======
+            "id": 16,
+            "nombre": "escritorio",
+            "tipo": "Pesado",
+            "peso": 99.0,
+            "precio": 15209.0,
+            "tiempo": 4.0
+>>>>>>> Stashed changes
         },
         {
             "id": 2,
@@ -31,6 +40,22 @@
             "peso": 474.0,
             "precio": 48494.0,
             "tiempo": 5.0
+        },
+        {
+            "id": 18,
+            "nombre": "llaves",
+            "tipo": "Basico",
+            "peso": 231.0,
+            "precio": 582.0,
+            "tiempo": 5.0
+        },
+        {
+            "id": 9,
+            "nombre": "Zapatos",
+            "tipo": "Fragil",
+            "peso": 107.0,
+            "precio": 39302.0,
+            "tiempo": 2.0
         }
     ]
 }
