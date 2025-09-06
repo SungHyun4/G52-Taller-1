@@ -1,0 +1,36 @@
+{
+    "items": [
+        {
+            "id": 13,
+            "nombre": "Cargador",
+            "tipo": "Fragil",
+            "peso": 187.0,
+            "precio": 20592.0,
+            "tiempo": 2.0
+        },
+        {
+            "id": 3,
+            "nombre": "Silla",
+            "tipo": "Pesado",
+            "peso": 418.0,
+            "precio": 48413.0,
+            "tiempo": 2.0
+        },
+        {
+            "id": 17,
+            "nombre": "Audifonos",
+            "tipo": "Pesado",
+            "peso": 119.0,
+            "precio": 5012.0,
+            "tiempo": 2.0
+        },
+        {
+            "id": 2,
+            "nombre": "Tablet",
+            "tipo": "Basico",
+            "peso": 474.0,
+            "precio": 48494.0,
+            "tiempo": 5.0
+        }
+    ]
+}
