@@ -37,6 +37,7 @@ public class ControladorSimulacion : MonoBehaviour
     public TMP_Text txtTipoMasDespachado;
 
    
+   
     public Button botonIniciar;
     public Button botonDetener;
 
