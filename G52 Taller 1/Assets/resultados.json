@@ -1,0 +1,36 @@
+{
+    "items": [
+        {
+            "id": 20,
+            "nombre": "lapiz",
+            "tipo": "Fragil",
+            "peso": 42.0,
+            "precio": 12206.0,
+            "tiempo": 4.0
+        },
+        {
+            "id": 14,
+            "nombre": "Impresora",
+            "tipo": "Pesado",
+            "peso": 89.0,
+            "precio": 19228.0,
+            "tiempo": 3.0
+        },
+        {
+            "id": 10,
+            "nombre": "Cuaderno",
+            "tipo": "Fragil",
+            "peso": 22.0,
+            "precio": 14775.0,
+            "tiempo": 5.0
+        },
+        {
+            "id": 10,
+            "nombre": "Cuaderno",
+            "tipo": "Fragil",
+            "peso": 22.0,
+            "precio": 14775.0,
+            "tiempo": 5.0
+        }
+    ]
+}
